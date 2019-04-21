@@ -1,0 +1,13 @@
+{
+    "name": "anandpackages/contact",
+    "description": "This is the simple package for sending mail",
+    "type": "library",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "anandPackages\\contact\\": "src/"
+        }
+    }
+}
