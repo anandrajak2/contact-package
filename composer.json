@@ -9,5 +9,13 @@
         "psr-4": {
             "anandPackages\\contact\\": "src/"
         }
+    },
+    "extra": {
+    "laravel": {
+        "providers": [
+            "anandPackages\\contact\\ContactServiceProvider"
+        ]
+
     }
+},
 }
